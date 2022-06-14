@@ -1,6 +1,9 @@
 > **Note**:
 >
-> The original repo (https://github.com/bouk/monkey) has been archived by the owner. I forked it try to keep maintaining it. Currently, I am trying to contact the author to get the permission. And if this violates the license or laws, I will remove the repo.
+> The original repo (https://github.com/bouk/monkey) has been archived by the owner. I forked it try to keep maintaining it. Currently, I am trying to contact the author to get the permission. And if I cannot get the approval, or this violates the license or laws, I will rewrite it and create a new repo.
+>
+> The following are the enhancements I have made to the original repo so far:
+> - [X] support the arm64 platform
 
 # Go monkeypatching :monkey_face: :monkey:
 
